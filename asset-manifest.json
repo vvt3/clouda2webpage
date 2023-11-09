@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clouda2webpage/static/css/main.700125cf.css",
+    "main.js": "/clouda2webpage/static/js/main.51270025.js",
+    "index.html": "/clouda2webpage/index.html",
+    "main.700125cf.css.map": "/clouda2webpage/static/css/main.700125cf.css.map",
+    "main.51270025.js.map": "/clouda2webpage/static/js/main.51270025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700125cf.css",
+    "static/js/main.51270025.js"
+  ]
+}
