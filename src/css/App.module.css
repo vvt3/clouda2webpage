@@ -1,0 +1,6 @@
+.mainContainer {
+    background-color: rgb(238, 238, 238);
+    flex-direction: column;
+    display: flex;
+    min-height: 100vh;
+}
